@@ -1,8 +1,8 @@
 {
-  "name": "mapa-cocha-antigua",
+  "name": "mapa-cocha-toponimos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lab-tecnosocial.github.io/mapa-cocha-sonidos",
+  "homepage": "https://lab-tecnosocial.github.io/mapa-cocha-toponimos",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
